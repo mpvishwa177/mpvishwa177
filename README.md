@@ -1,16 +1,103 @@
-## Hi there 👋
+# Hi 👋 I'm Vishwa
 
-<!--
-**mpvishwa177/mpvishwa177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fresher | Aspiring Software Developer | Web Development Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building small applications to improve my programming skills and understand how real software systems work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* Fresher interested in **software development and web technologies**
+* Currently improving my skills in **JavaScript, Python, and databases**
+* Learning by building projects and exploring open-source tools
+* Goal: Become a strong developer by solving real problems
+
+---
+
+## 🛠 Skills
+
+**Languages**
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Python
+
+**Databases**
+
+* MySQL
+* NoSQL
+
+**Tools**
+
+* Git
+* GitHub
+
+---
+
+## 📂 Projects
+
+### 🌐 Organization Website
+
+A website created for an organization to present their information and activities online.
+
+**Tech Stack**
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+### ✅ To-Do Application
+
+A simple task management application to organize daily activities.
+
+**Features**
+
+* Add tasks
+* Delete tasks
+* Mark tasks as completed
+
+**Tech Stack**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+### 💰 Expense Tracker
+
+A basic web application to track personal expenses and income.
+
+**Features**
+
+* Add expense and income records
+* Calculate total balance
+* Track spending
+
+**Tech Stack**
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpvishwa177\&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mpvishwa177)
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/mpvishwa177
+
+---
+
+⭐ Always learning and improving through practice and projects.
