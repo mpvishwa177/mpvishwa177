@@ -27,7 +27,7 @@ I enjoy building small applications to improve my programming skills and underst
 **Databases**
 
 * MySQL
-* NoSQL
+  
 
 **Tools**
 
