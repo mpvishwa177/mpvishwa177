@@ -68,14 +68,14 @@ A simple task management application to organize daily activities.
 
 ---
 
-### 💰 Expense Tracker
+### 🎃 Grocery web Application
 
-A basic web application to track personal expenses and income.
+A basic web application to track personal expenses.
 
 **Features**
 
-* Add expense and income records
-* Calculate total balance
+* Add and remove products
+* Calculate total cost
 * Track spending
 
 **Tech Stack**
